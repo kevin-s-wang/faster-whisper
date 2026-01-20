@@ -251,6 +251,7 @@ Here is a non exhaustive list of open-source projects using faster-whisper. Feel
 * [Faster-Whisper-Transcriber](https://github.com/BBC-Esq/ctranslate2-faster-whisper-transcriber) is a simple but reliable voice transcriber that provides a user-friendly interface.
 * [Open-dubbing](https://github.com/softcatala/open-dubbing) is open dubbing is an AI dubbing system which uses machine learning models to automatically translate and synchronize audio dialogue into different languages.
 * [Whisper-FastAPI](https://github.com/heimoshuiyu/whisper-fastapi) whisper-fastapi is a very simple script that provides an API backend compatible with OpenAI, HomeAssistant, and Konele (Android voice typing) formats.
+* [kinsight-learning-studio](https://github.com/kevin-s-wang/kinsight-learning-studio) a video-centric learning platform that leverages faster-whisper to generate high-quality subtitles as a foundation for advanced features such as synthesized audio tracks, video summarization, question answering, content extraction, and more.
 
 ## Model conversion
 
